@@ -12,7 +12,7 @@ I'm a Data Analyst and I guide your journey through the data wilderness to insig
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jimmy_Charo_?t=D7YE1UoyLz3HvzDiN_gKOA&s=09)
 
 
-## Other Common Github Profile Sections
+## Other Profile Sections
 👩‍💻 I'm currently working on Basic Sales Data Analysis.
 
 🧠 I'm currently learning 
@@ -39,13 +39,13 @@ I'm a Data Analyst and I guide your journey through the data wilderness to insig
 
 ## 🛠 Skills
 
-1. Statistics.
-2. Tableau.
-3. Power Bi.
-4. Python.
-5. R.
-6. SQL.
-7. Machine Learning.
+  - Statistics.
+  - Tableau.
+  - Power Bi.
+  - Python.
+  - R.
+  - SQL.
+  - Machine Learning.
 
 
 
