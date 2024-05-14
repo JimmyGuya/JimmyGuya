@@ -21,11 +21,9 @@ I'm a Data Analyst and I guide your journey through the data wilderness to insig
    - Machine Learning with TensorFlow.
    - Big Data Technologies like Hadoop and Spark.
 
-👯‍♀️ I'm looking to collaborate on Data  
-   Visualization with Python Projects.
+👯‍♀️ I'm looking to collaborate on Data Visualization with Python Projects.
 
-🤔 I'm looking for help with Advanced Data 
-   Visualization Techniques.
+🤔 I'm looking for help with Advanced Data Visualization Techniques.
 
 💬 Ask me about
    - Excel.
