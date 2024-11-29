@@ -41,7 +41,6 @@ I'm a Data Analyst and I guide your journey through the data wilderness to insig
   - Tableau.
   - Power Bi.
   - Python.
-  - R.
   - SQL.
   - Machine Learning.
 
