@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Analyst and I guide your journey through the data wilderness to insightful destinations.
+I'm a Data Professional and I guide your journey through the data wilderness to insightful destinations.
 
 
 ## 🔗 Links
@@ -12,8 +12,6 @@ I'm a Data Analyst and I guide your journey through the data wilderness to insig
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jimmy_Charo_?t=D7YE1UoyLz3HvzDiN_gKOA&s=09)
 
 
-## Other Profile Sections
-👩‍💻 I'm currently working on Basic Sales Data Analysis.
 
 🧠 I'm currently learning 
    - Advanced SQL Techniques.
