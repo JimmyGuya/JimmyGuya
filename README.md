@@ -13,21 +13,32 @@ I'm a Data Professional and I guide your journey through the data wilderness to 
 
 
 
-🧠 I'm currently learning 
-   - Advanced SQL Techniques.
-   - Python for Data Analysis.
-   - Machine Learning with TensorFlow.
-   - Big Data Technologies like Hadoop and Spark.
+🧠 Currently exploring
+- Data Engineering & Analytics
+- ETL/ELT Pipeline Development (Dagster)
+- Apache Spark & Distributed Computing
+- Data Warehousing & Data Modeling
+- Power BI & Business Intelligence
 
-👯‍♀️ I'm looking to collaborate on Data Visualization with Python Projects.
+🤝 Open to collaborating on
+- Data Engineering projects
+- Analytics Engineering
+- Data Pipeline Automation
+- Business Intelligence & Dashboard Development
 
-🤔 I'm looking for help with Advanced Data Visualization Techniques.
+🚀 Interested in
+- Cloud Data Platforms
+- Data Quality & Observability
+- Workflow Orchestration
+- Scalable Data Infrastructure
 
 💬 Ask me about
-   - Excel.
-   - Python Libraries.
-   - Data Visualization Tools.
-   - SQL Queries.
+- SQL
+- Python
+- Power BI
+- ETL Pipelines
+- Data Modeling
+- Data Analytics
 
 
 📫 How to reach me  jimmycharo15@gmail.com
@@ -40,7 +51,6 @@ I'm a Data Professional and I guide your journey through the data wilderness to 
   - Power Bi.
   - Python.
   - SQL.
-  - Machine Learning.
 
 
 
